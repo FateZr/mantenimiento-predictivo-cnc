@@ -6,7 +6,8 @@ Análisis del dataset AI4I 2020 Predictive Maintenance (UCI Machine Learning Rep
 
 ## Ver el dashboard
 
-Dashboard en línea: 
+Dashboard en línea: https://mantenimiento-predictivo-cnc.streamlit.app/
+
 Dashboard en local: http://localhost:8501
 
 No requiere instalar nada; se abre desde el navegador.
