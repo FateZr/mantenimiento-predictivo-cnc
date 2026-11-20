@@ -72,11 +72,3 @@ streamlit run dashboard.py
 Se abre en el navegador en http://localhost:8501. Para cerrarlo, presionar Ctrl + C en la terminal.
 
 No es necesario ejecutar el notebook antes: la carpeta dashboard_datos/ ya contiene los resultados.
-
-## Ejecutar el notebook
-
-Con el entorno activado, abrir Proyecto.ipynb en VS Code o Jupyter, elegir el kernel .venv y ejecutar todas las celdas. El notebook descarga los datos, genera ai4i_datawarehouse.xlsx y actualiza la carpeta dashboard_datos/.
-
-## Fuente de datos
-
-Matzka, S. (2020). AI4I 2020 Predictive Maintenance Dataset. UCI Machine Learning Repository. Licencia CC BY 4.0.
